@@ -1,0 +1,16 @@
+       *{
+        text-align: center;
+        font-family: arial;
+       }
+       
+       .card {
+        background-color: #ff6f6f;
+        padding: 15px;
+        margin: 15px auto;
+        border-radius: 25px;
+        width: fit-content;
+      }
+
+      .text {
+        font-style: italic;
+      }
